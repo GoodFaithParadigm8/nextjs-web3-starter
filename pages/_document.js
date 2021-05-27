@@ -25,6 +25,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,700;1,900&display=swap"
             rel="stylesheet"
           />
+           <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
         </Head>
         <body>
           <Main />

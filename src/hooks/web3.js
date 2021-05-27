@@ -31,9 +31,9 @@ export function useWeb3Modal() {
   async function connectWallet() {
     try {
       const externalProvider = await web3Modal.connect();
-      const ethersProvider = new ethers.providers.Web3Provider(externalProvider);
+      const provider = new ethers.providers.Web3Provider(externalProvider);
   
-      setProvider(ethersProvider);
+      setProvider(provider);
     } catch(e) {
       setError('NO_WALLET_CONNECTED');
       console.log('NO_WALLET_CONNECTED', e);
