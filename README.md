@@ -1,5 +1,5 @@
 <p align="center"><img src="public/logo.svg" align="center" width="250"></p>
-<h2 align="center">Next.js Web3 template</h2>
+<h2 align="center">An NFT Marketplace, Liquidity Pool and Intrest Farm</h2>
 
 <p align="center"><b>🏗️ Next.js + Material UI + dark mode + web3 starter template ⚡</b></p>
 
