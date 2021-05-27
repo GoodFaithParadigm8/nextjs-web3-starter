@@ -25,7 +25,7 @@ const Navbar = ({ toggleMode, darkMode }) => {
         <img src="/logo.svg" alt="logo" className={classes.img} />
 
         <Typography variant="h6" className={classes.title}>
-          Next.js Web3 starter
+          GoodFaith.Finance
         </Typography>
 
         <IconButton

@@ -11,10 +11,10 @@ const Index = () => {
     <main className={classes.main}>
       <div>
         <Typography variant="h3">
-          Web3 starter template
+          GoodFaith Finance
         </Typography>
         <Typography variant="h6">
-          Next.js + Material UI + dark mode + web3 starter template. Boilerplate to get starter quickly.
+          An NFT Marketplace, Liquidity Pool and Intrest Farm
         </Typography>
       </div>
       <Link href="/">
