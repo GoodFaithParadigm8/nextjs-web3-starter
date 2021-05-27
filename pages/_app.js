@@ -41,7 +41,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <React.Fragment>
       <Head>
-        <title>Nextjs Web3 starter</title>
+        <title>NFT Marketplace & More </title>
         <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
       </Head>
       <ThemeProvider theme={muiTheme}>
