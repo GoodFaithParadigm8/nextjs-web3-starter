@@ -22,7 +22,7 @@ const Navbar = ({ toggleMode, darkMode }) => {
   return (
     <AppBar position="static" className={classes.root}>
       <Toolbar>
-        <img src="/logo.svg" alt="logo" className={classes.img} />
+        <img src="icons/icon-192x192.png" alt="logo" className={classes.img} />
 
         <Typography variant="h6" className={classes.title}>
           GoodFaith.Finance
