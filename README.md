@@ -15,11 +15,16 @@ User login with Metamask
 - Allow website visitors to buy NFTs
 - Allow website visitors to search NFTs by free text on title and description
 - Front-end, backend design and implementation and smart contracts design and implementation, integration with Metamask wallet via Web3.js.
+- Use (The Graph)[https://thegraph.com/docs/quick-start#local-development]
 
 Acceptance criteria
 Milestone 1 - Basic Functions
 
 - [ ] Owner's Metamask login into his profile (show his own NFTs)
+    - ethers
+    - (web3-react)[https://github.com/NoahZinsmeister/web3-react/blob/v6/example/pages/_app.tsx#L2
+    - web3modal]
+    - @walletconnect/web3-provider
 - [ ] Owner can put NFT for sale (fixed price)
 - [ ] List all NFTs for sale and display content (images)
 - [ ] Filter NFTs list
@@ -36,9 +41,9 @@ Milestone 2 - Advanced Functions
 - [ ] Support sell NFTs as an Auction and allow bids
 - [ ] Improvement on UI/UX and performance
 - [ ] A simple landing page
-- Time estimation
 
-3 weeks
+Milestone 3 - Liquidity Pool
+- [] Allow NFTs to be  
 
 ### Quick start
 
