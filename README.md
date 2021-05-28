@@ -16,9 +16,6 @@ User login with Metamask
 - Allow website visitors to search NFTs by free text on title and description
 - Front-end, backend design and implementation and smart contracts design and implementation, integration with Metamask wallet via Web3.js.
 
-Context
-IoTeX is an EVM and Web3js compatible platform, and its mission is to connect the physical world to the Metaverse using blockchain and the Internet-of-Trusted Things. There are many NFTs already deployed on the IoTeX mainnet such as the "Ucam Pioneer NFT" given to those who pre-ordered a Ucam before it was launched on Amazon, or the "Burn Drop Ignite" NFT, and more will be added in the future by upcoming dApps using trusted data from the real world like PebbleGo (see references below).
-
 Acceptance criteria
 Milestone 1 - Basic Functions
 
