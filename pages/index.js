@@ -31,8 +31,7 @@ const Index = () => {
               referrerAddress="0x8b69E1051805C190Fe9464493F32F86077446990"
               >
             </nft-card>
-    
-      
+
             <nft-card style={{ padding: 10 }} justify-center
                 tokenAddress="0xd07dc4262bcdbf85190c01c996b4c06a461d2430"
                 tokenId="490643"
@@ -57,6 +56,8 @@ const useStyles = makeStyles((theme) => ({
     margin: '100px auto',
     maxWidth: 1100,
     textAlign: 'center',
+    padding: '20 10px',
+    justifyContent: 'center'
   },
   text: {
     fontSize: 18
