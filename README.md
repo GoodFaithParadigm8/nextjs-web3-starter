@@ -25,6 +25,7 @@ Milestone 1 - Basic Functions
     - (web3-react)[https://github.com/NoahZinsmeister/web3-react/blob/v6/example/pages/_app.tsx#L2
     - web3modal]
     - @walletconnect/web3-provider
+    - web3.js
 - [ ] Owner can put NFT for sale (fixed price)
 - [ ] List all NFTs for sale and display content (images)
 - [ ] Filter NFTs list
@@ -43,7 +44,13 @@ Milestone 2 - Advanced Functions
 - [ ] A simple landing page
 
 Milestone 3 - Liquidity Pool
-- [] Allow NFTs to be  
+- [ ] Support NFT staking and issuing of assets for liquidity farming
+- [ ] Support mining issued asset
+- [ ] Insure NFT Deposits
+
+<p align="center"><img src="public/image/NFT-surety.svg" align="center" width="450"></p>
+
+
 
 ### Quick start
 
