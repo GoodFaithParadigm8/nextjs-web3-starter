@@ -48,7 +48,7 @@ Milestone 3 - Liquidity Pool
 - [ ] Support mining issued asset
 - [ ] Insure NFT Deposits
 
-<p align="center"><img src="public/image/NFT-surety.svg" align="center" width="450"></p>
+<p align="center"><img src="public/img/NFT-surety.svg" align="center" width="450"></p>
 
 
 
